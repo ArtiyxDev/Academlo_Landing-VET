@@ -2,12 +2,11 @@
 
 Este proyecto es una landing page moderna y completamente responsiva para una clínica veterinaria ficticia llamada "PetVet". Fue desarrollado como parte del bootcamp de **Academlo**, con un fuerte enfoque en el uso de tecnologías CSS de vanguardia para crear una experiencia de usuario dinámica y atractiva, **lograda exclusivamente con HTML y CSS**.
 
-[![Vista Previa del Proyecto](./preview.gif)](URL_DEL_DEPLOY_AQUI)
-> **Nota:** Reemplaza `URL_DEL_DEPLOY_AQUI` con el enlace a tu demo en vivo y `preview.gif` con una captura o GIF de tu proyecto.
+[![Vista Previa del Proyecto](./preview.gif)]()
 
 ## 🚀 Demo en Vivo
 
-Puedes ver el proyecto en acción aquí: **Ver Demo**
+Puedes ver el proyecto en acción aquí: [**Ver Demo**](https://artiyxdev-landing-vet.netlify.app/)
 
 ---
 
